@@ -13,7 +13,7 @@ layout: home
 
 <div class="cate-bar"><span id="cateBar"></span></div>
 
-<div class="artical-list" id="profileContainer">
+<div class="artical-list" >
 <p>1111111111111111</p>
 <a href="">linkedin</a>
 </div>
