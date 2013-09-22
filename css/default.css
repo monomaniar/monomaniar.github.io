@@ -97,10 +97,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
   height:100%;
   max-width: 500px;
   background:#fff;
-  box-shadow:inset -1px 0 0 rgba(0,0,0,0.3);
   background-size:cover;
   background-position:50% 50%;
-  margin-left:70%;
+  margin-left:65%;
   padding-top:30px;
 }
 
@@ -123,6 +122,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 .index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:100px; }
 .index-content #cateBar { display:inline-block; zoom:1; height:3px; background:red; position:relative; width:0; }
+.index-content #profileContainer {  display:inline-block; zoom:1; height:100%; background:#fff; position:relative; width:70%;  }
 
 /***************Wiki Style*****************/
 .wiki h2{cursor:pointer;}

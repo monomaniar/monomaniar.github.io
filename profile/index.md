@@ -13,6 +13,11 @@ layout: home
 
 <div class="cate-bar"><span id="cateBar"></span></div>
 
+<div class="artical-list" id="profileContainer">
+<p>1111111111111111</p>
+<a href="">linkedin</a>
+</div>
+
     </div>
   {% include home_rightside.html %}
     </div>
