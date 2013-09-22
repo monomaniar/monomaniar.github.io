@@ -101,11 +101,11 @@ pre ol{margin-left:25px;list-style-type:decimal;}
   background-size:cover;
   background-position:50% 50%;
   margin-left:70%;
-  padding-top:80px;
+  padding-top:30px;
 }
 
 
-.index-content .section { margin-right:30%; padding-top:30px; padding-right:15%; ;}
+.index-content .section { margin-right:30%; padding-top:80px; padding-right:5%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:70px; }
