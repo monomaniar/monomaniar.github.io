@@ -25,7 +25,7 @@ layout: home
     scrolling="no"
     src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=450&fansRow=1&ptype=0&speed=0&skin=5&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=2120543591&verifier=045e79b4&dpc=1"></iframe>
     <script type="text/javascript"
-    src="http://www.douban.com/service/badge/D.o.v.e/?show=collection&amp;n=6&amp;columns=6&amp;hidelogo=yes&amp;cat=book"
+    src="http://www.douban.com/service/badge/D.o.v.e/?show=collection&amp;n=6&amp;columns=6&amp;hideself=yes&amp;hidelogo=yes&amp;cat=book"
     ></script>
     </div>
     </div>
