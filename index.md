@@ -24,6 +24,9 @@ layout: home
     <iframe width="100%" height="550" class="share_self"  frameborder="0"
     scrolling="no"
     src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=0&speed=0&skin=5&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=2120543591&verifier=045e79b4&dpc=1"></iframe>
+    <script type="text/javascript"
+    src="http://www.douban.com/service/badge/D.o.v.e/?show=collection&amp;n=4&amp;columns=2&amp;hidelogo=yes&amp;cat=book"
+    ></script>
     </div>
     </div>
 </div>
