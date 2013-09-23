@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      12年读书小结
-category: misc
+category:   misc
 description: 新年到,回顾下过去一年读的闲书
 ---
 

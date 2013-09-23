@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 吴冉波的博客
 ---
 
 <div class="index-content blog">
@@ -7,9 +8,9 @@ layout: home
 
 
 <ul class="artical-cate">
-    <li class="on"><a href="/"><span>博客</span></a></li>
-    <li style="text-align:center"><a href="/misc"><span>胡言乱语</span></a></li>
-    <li style="text-align:right"><a href="/profile"><span>我是谁</span></a></li>
+    <li class="on"><a href="/"><span>长文</span></a></li>
+    <li style="text-align:center"><a href="/misc"><span>短文</span></a></li>
+    <li style="text-align:right"><a href="/profile"><span>关于吴冉波</span></a></li>
 </ul>
 
 <div class="cate-bar"><span id="cateBar"></span></div>
