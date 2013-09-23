@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).load(function(){
     if (document.WuRanbo.isMobile.any()){
         console.log("is mobile");
         $(".rightside").remove();
