@@ -7,8 +7,8 @@ title: 吴冉波
     <div class="section">
 
 <ul class="artical-cate">
-    <li ><a href="/"><span>长话</span></a></li>
-    <li style="text-align:center"><a href="/misc"><span>短说</span></a></li>
+    <li ><a href="/"><span>长 话</span></a></li>
+    <li style="text-align:center"><a href="/misc"><span>短 说</span></a></li>
     <li class="on" style="text-align:right"><a href="/profile"><span>吴冉波</span></a></li>
 </ul>
 
@@ -29,7 +29,7 @@ style="float:left;margin-right:20px"></img>
 <p>语言 : 普通话 C C++ 英语 java javascript bash python php </p>
 </div>
 <div>
-<p  style="float:left;padding-right:10px" >更多:</p>
+<p  style="padding-right:10px" >更多:</p>
 <div  style="float:left;margin-left:20px">
 <a href="http://weibo.com/wuranbo/" target="_blank"
 style="margin-left:-5px;"><img
