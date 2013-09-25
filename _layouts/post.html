@@ -32,19 +32,24 @@ layout: default
     </div>
 
     <div class="sidenav">
-        <h2>长话</h2>
+        <h2>长 文</h2>
         <ul class="artical-list">
-            {% for post in site.categories.blog%}
+            {% for post in site.categories.blog limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
-        <h2>短说</h2>
+        <h2>短 篇</h2>
         <ul class="artical-list">
-            {% for post in site.categories.misc%}
+            {% for post in site.categories.misc limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
     </div>
+</div>
+<div class="backtotop" style="opacity:1;">
+<a data-action="backtotop" data-tip="s$r$回到顶部" href="#"
+class="btn-backtotop btn-action"><div class="arrow"></div><div
+class="stick"></div></a>
 </div>
 
 <script src="/js/post.js" type="text/javascript"></script>

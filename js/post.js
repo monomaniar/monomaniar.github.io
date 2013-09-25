@@ -181,4 +181,21 @@ $(document).ready(function(){
         $("head").append("<link rel='stylesheet' type='text/css' href='/css/css3-ani.css'/>");
         $.getScript('/js/css3-ani.js',function(){});
     }
+
+
+   $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('.backtotop').fadeIn();
+        } else {
+            $('.backtotop').fadeOut();
+        }
+    });
+
+    $('.backtotop .btn-action').click(function () {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
 });

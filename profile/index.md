@@ -7,8 +7,8 @@ title: 吴冉波
     <div class="section">
 
 <ul class="artical-cate">
-    <li ><a href="/"><span>长 话</span></a></li>
-    <li style="text-align:center"><a href="/misc"><span>短 说</span></a></li>
+    <li ><a href="/"><span>长 文</span></a></li>
+    <li style="text-align:center"><a href="/misc"><span>短 篇</span></a></li>
     <li class="on" style="text-align:right"><a href="/profile"><span>吴冉波</span></a></li>
 </ul>
 

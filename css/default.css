@@ -56,9 +56,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 
 /****************entry style**************/
-.sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
+.sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:20px; box-shadow:0 1px 4px #ccc; }
 .sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
-.sidenav ul { margin-bottom:50px; }
+.sidenav ul { margin-bottom:20px; }
 .sidenav li { margin-bottom:12px; }
 .sidenav a { color:#555; font-size:14px; display:block;}
 .entry{margin-bottom:80px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
@@ -144,7 +144,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex ul {margin-bottom:10px;}
 #menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:10px;}
 #menuIndex ul li.on{background-color:#f5f5f5;}
-#menuIndex li.h1{font-size:14px;font-weight:normal;padding-left:0;margin-bottom:10px;}
+#menuIndex li.h1{font-size:14px;font-weight:bold;padding-left:0;margin-bottom:10px;}
 #menuIndex li.h3{padding-left:25px;}
 
 .home-menu { position:fixed; top:15px; left:15px; z-index:5; font-size:0; }
@@ -198,4 +198,43 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 }
 @media (max-width: 1300px){
   .home-menu { position:absolute; }
+}
+/******css绘制按钮*******/
+.backtotop {
+  display:none;
+  position: fixed;
+  bottom: 113px;
+  left: 50%;
+  z-index: 19;
+  margin-left: 230px;
+}
+.backtotop .stick {
+  position: absolute;
+  left: 15px;
+  left: 14px\9;
+  top: 15px;
+  width: 8px;
+  height: 14px;
+  display: block;
+  border-radius: 1px;
+  background-color: #aaa;
+}
+.backtotop .arrow {
+  position: absolute;
+  left: 10px;
+  top: -1px;
+  width: 0;
+  height: 0;
+  border: 9px solid transparent;
+  border-bottom-color: #aaa;
+}
+.backtotop .btn-action {
+  display: block;
+  width: 38px;
+  height: 38px;
+  background-color: #ddd;
+  border-radius: 3px;
+  border: 0;
+  cursor: pointer;
+  position: relative;
 }
