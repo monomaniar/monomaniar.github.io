@@ -15,11 +15,40 @@ title: 吴冉波
 <div class="cate-bar"><span id="cateBar"></span></div>
 
 <div class="artical-list" >
-<p>1111111111111111</p>
-<a href="">linkedin</a>
+<div>
+<img src="/img/me.jpg" width="275px" alt="wuranbo's photo by the sea."
+style="float:left;margin-right:20px"></img>
+<p>姓名 : 吴冉波</p>
+<p>年龄 : 26</p>
+<p>血型 : O</p>
+<p>星座 : 水瓶</p>
+<p>家乡 : 河南 > 洛阳 > 新安</p>
+<p>大学 : 北京邮电大学 > 通信工程系</p>
 </div>
-
-    </div>
-  {% include home_rightside.html %}
-    </div>
+<div>
+<p>语言 : 普通话 C C++ 英语 java javascript bash python php </p>
+</div>
+<div>
+<p  style="float:left;padding-right:10px" >更多:</p>
+<div  style="float:left;margin-left:20px">
+<a href="http://weibo.com/wuranbo/" target="_blank" style="margin-left:-5px;"><img src="http://www.weibo.com/favicon.ico" alt="" width="33"/></a>
+<a href="http://www.douban.com/people/D.o.v.e/" target="_blank"
+style="text-align:center;margin-left:20px;"><img src="http://www.douban.com/favicon.ico" alt=""
+width="33"/></a>
+<a href="http://gitcafe.com/monomaniar" target="_blank"
+style="text-align:center;margin-left:20px"><img src="http://www.gitcafe.com/favicon.ico" alt=""
+width="33"/></a>
+<a href="http://github.com/monomaniar" target="_blank"
+style="text-align:center;margin-left:20px"><img src="http://www.github.com/favicon.ico" alt=""
+width="33"/></a>
+<a href="http://cn.linkedin.com/pub/吴-冉波/33/862/534"
+target="_blank" style="text-align:right;margin-left:20px"><img
+src="http://www.linkedin.com/favicon.ico" alt=""
+width="33"/></a>
+</div>
+</div>
+</div>
+</div>
+{% include home_rightside.html %}
+</div>
 </div>
