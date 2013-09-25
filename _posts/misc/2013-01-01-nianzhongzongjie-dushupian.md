@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      自省 > 2012年读书小结
+title:      笔记 > 2012年读书小结
 category:   misc
 description: 新年到,回顾下过去一年读的闲书
 ---

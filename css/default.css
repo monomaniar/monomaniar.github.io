@@ -91,6 +91,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 }
 .index-content .rightside {
   position: fixed;
+  float: right;
   top:0;
   left:0;
   width:30%;
@@ -99,8 +100,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
   background:#fff;
   background-size:cover;
   background-position:50% 50%;
-  margin-left:65%;
   padding-top:30px;
+  margin-left:65%;
 }
 
 
@@ -172,11 +173,11 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
   .entry {float:none;width:auto;background:transparent;padding:0;box-shadow:none;}
 
   .index-content .aside { position:relative; width:100%; height:300px; max-width:none; }
-  .index-content .section { margin-left:0; padding-right:0; }
+  .index-content .section { margin-left:0; margin-right:0; padding-right:0; }
   .index-content .section ul { width:85%; }
   .index-content .cate-bar { width:85%; }
   .index-content .artical-cate { margin-top:50px; }
-  .index-content .rightside { display:none; };
+  .index-content .rightside { display:none; margin-left:0%;};
 
   .blog .aside,
   .project .aside,
@@ -186,10 +187,12 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 @media (max-width: 1020px){
   #menuIndex {display:none;}
   .home-menu { position:absolute; }
+  .index-content .section { margin-left:0; margin-right:0; padding-right:0; }
   .index-content .cate-bar ,
   .index-content .artical-list,
   .index-content .artical-cate { width:85%; }
   .sidenav {display:none;}
+  .index-content .rightside { display:none; margin-left:0%;};
   .entry {float:none;width:auto;background:transparent;padding:0;box-shadow:none;}
   #content {width:85%;margin:100px auto 50px; }
 }

@@ -14,7 +14,6 @@ title: 吴冉波
 </ul>
 
 <div class="cate-bar"><span id="cateBar"></span></div>
-
         <ul class="artical-list">
         {% for post in site.categories.blog %}
             <li>
@@ -23,7 +22,7 @@ title: 吴冉波
             </li>
         {% endfor %}
         </ul>
-    </div>
+      </div>
     {% include home_rightside.html %}
     </div>
 </div>
