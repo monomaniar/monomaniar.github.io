@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      讲座笔记:南北供暖这个事儿
+title:      讲座笔记 > 南北供暖这个事儿
 category: blog
 description: 首都科学讲堂的笔记1,院士解答南方冬天为什么不适合使用集中供暖.
 ---
