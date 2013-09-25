@@ -14,4 +14,7 @@ title: wuranbo.me
 url: http://wuranbo.me
 feed: /atom.xml
 author_info: <a href="http://wuranbo.me/">WuRanbo</a>
+author:
+  name: wuranbo
+  email: wuranbo@gmail.com
 #}
