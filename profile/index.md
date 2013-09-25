@@ -33,13 +33,14 @@ style="float:left;margin-right:20px"></img>
 <div  style="float:left;margin-left:20px">
 <a href="http://weibo.com/wuranbo/" target="_blank" style="margin-left:-5px;"><img src="http://www.weibo.com/favicon.ico" alt="" width="33"/></a>
 <a href="http://www.douban.com/people/D.o.v.e/" target="_blank"
-style="text-align:center;margin-left:20px;"><img src="http://www.douban.com/favicon.ico" alt=""
+style="text-align:center;margin-left:20px;"><img
+src="http://img3.douban.com/pics/douban-icons/favicon_32x32.png" alt=""
 width="33"/></a>
 <a href="http://gitcafe.com/monomaniar" target="_blank"
 style="text-align:center;margin-left:20px"><img src="http://www.gitcafe.com/favicon.ico" alt=""
 width="33"/></a>
 <a href="http://github.com/monomaniar" target="_blank"
-style="text-align:center;margin-left:20px"><img src="http://www.github.com/favicon.ico" alt=""
+style="text-align:center;margin-left:20px"><img src="/img/github.ico" alt=""
 width="33"/></a>
 <a href="http://cn.linkedin.com/pub/吴-冉波/33/862/534"
 target="_blank" style="text-align:right;margin-left:20px"><img
