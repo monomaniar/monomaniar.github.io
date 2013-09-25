@@ -16,7 +16,7 @@ title: 吴冉波
 
 <div class="artical-list" >
 <div>
-<img src="/img/me.jpg" width="275px" alt="wuranbo's photo by the sea."
+<img src="http://wuranbo.me/img/me.jpg" width="275px" alt="wuranbo's photo by the sea."
 style="float:left;margin-right:20px"></img>
 <p>姓名 : 吴冉波</p>
 <p>年龄 : 26</p>
@@ -39,10 +39,10 @@ style="text-align:center;margin-left:20px;"><img
 src="http://img3.douban.com/pics/douban-icons/favicon_32x32.png" alt=""
 width="31"/></a>
 <a href="http://gitcafe.com/monomaniar" target="_blank"
-style="text-align:center;margin-left:20px"><img src="/img/gitcafe.jpg" alt=""
+style="text-align:center;margin-left:20px"><img src="http://wuranbo.me/img/gitcafe.jpg" alt=""
 width="31"/></a>
 <a href="http://github.com/monomaniar" target="_blank"
-style="text-align:center;margin-left:20px"><img src="/img/github.ico" alt=""
+style="text-align:center;margin-left:20px"><img src="http://wuranbo.me/img/github.ico" alt=""
 width="31"/></a>
 <a href="http://cn.linkedin.com/pub/吴-冉波/33/862/534"
 target="_blank" style="text-align:right;margin-left:20px"><img
