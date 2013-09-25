@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 吴冉波的博客
+title: 吴冉波
 ---
 
 <div class="index-content blog">
