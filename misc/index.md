@@ -9,7 +9,7 @@ title: 吴冉波
 
 <ul class="artical-cate">
     <li ><a href="/"><span>{{ site.uservar.blog }}</span></a></li>
-    <li style="text-align:center"><a href="/misc"><span>{{ site.uservar.misc  }}</span></a></li>
+    <li class="on" style="text-align:center"><a href="/misc"><span>{{ site.uservar.misc  }}</span></a></li>
     <li  style="text-align:right"><a href="/profile"><span>吴冉波</span></a></li>
 </ul>
 
