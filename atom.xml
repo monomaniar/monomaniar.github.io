@@ -4,24 +4,34 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-   <title>{{ site.title }}</title>
-   <link href="{{ site.url }}{{ site.feed }}" rel="self" type="application/atom+xml"/>
-   <link href="{{ site.url }}" rel="alternate" type="text/html" />
-   <updated>{{ site.time | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}</id>
-   <author>
-     <name>{{ site.author.name }}</name>
-     <email>{{ site.author.email }}</email>
-   </author>
+  <title>{{ site.title }}</title>
+  <link href="{{ site.url }}{{ site.feed }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ site.url }}" rel="alternate" type="text/html" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}</id>
+  <author>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
+  </author>
 
-   {% for post in site.posts limit:10 %}
-   <entry>
-     <title>{{ post.title }}</title>
-     <link href="http://wuranbo.me{{ post.url }}"/>
-     <updated>{{ post.date | date_to_xmlschema }}</updated>
-     <id>http://wuranbo.me{{ post.id }}</id>
-     <content type="html">{{ post.content | xml_escape }}</content>
-   </entry>
-   {% endfor %}
+  <entry>
+    <title>吴冉波简介</title>
+    <link href="http://wuranbo.me/profile"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>http://wuranbo.me/profile</id>
+    <content type="html">
+      {{ '<html> <body> <div> <img src="http://wuranbo.me/img/me.jpg" width="275px" alt="photo of wuranbo." style="float:left;margin-right:20px"></img> <p>姓名 : 吴冉波</p> <p>年龄 : 26</p> <p>大学 : 北京邮电大学 > 通信工程系</p> </div> <div> <p>语言 : 普通话 C C++ 英语 java javascript bash python php </p> </div> </body> </html> ' | xml_escape }}
+    </content>
+  </entry>
+
+  {% for post in site.posts limit:10 %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="http://wuranbo.me{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://wuranbo.me{{ post.id }}</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
 
 </feed>
