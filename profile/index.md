@@ -47,7 +47,7 @@ title: 吴冉波
                         width="31"/></a>
                     <a href="http://cn.linkedin.com/pub/吴-冉波/33/862/534"
                         target="_blank" style="text-align:right;margin-left:20px"><img
-                        src="http://www.linkedin.com/favicon.ico" alt=""
+                        src="/img/linkedin.ico" alt=""
                         width="31"/></a>
                 </div>
             </div>
