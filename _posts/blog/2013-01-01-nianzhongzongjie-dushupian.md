@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      '[读书笔记]2012年读的闲书'
-category:   misc
+category:   blog
 description: '新年到，回顾下过去一年读的闲书'
 ---
 

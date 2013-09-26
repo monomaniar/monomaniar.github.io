@@ -32,13 +32,13 @@ layout: default
     </div>
 
     <div class="sidenav">
-        <h2>长 文</h2>
+        <h2>{{ site.uservar.blog }}</h2>
         <ul class="artical-list">
             {% for post in site.categories.blog limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
-        <h2>短 篇</h2>
+        <h2>{{ site.uservar.misc }} </h2>
         <ul class="artical-list">
             {% for post in site.categories.misc limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
