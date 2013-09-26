@@ -3,7 +3,7 @@ layout: home
 title: 吴冉波
 ---
 
-<div class="index-content blog">
+<div class="index-content blog clearfix">
     <div class="section">
 
 

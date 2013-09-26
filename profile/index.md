@@ -3,7 +3,7 @@ layout: home
 title: 吴冉波
 ---
 
-<div class="index-content blog clearfix">
+<div class="index-content profile clearfix">
     <div class="section">
 
         <ul class="artical-cate">
@@ -29,7 +29,7 @@ title: 吴冉波
             <div>
                 <p>语言 : 普通话 C C++ 英语 java javascript bash python php </p>
             </div>
-            <div>
+            <div class='clearfix' style="margin-bottom:30px;">
                 <p  style="padding-right:10px" >更多:</p>
                 <div  style="float:left;margin-left:20px">
                     <a href="http://weibo.com/wuranbo/" target="_blank"
@@ -51,6 +51,14 @@ title: 吴冉波
                         width="31"/></a>
                 </div>
             </div>
+    <div
+    style="position:relative;font-size:14px;margin-top:30px;margin-botom:30px;">
+    关于本站：本站是在<a
+    href="http://beiyuu.com">BeiYuu</a>的<a
+    href="http://beiyuu.com/github-pages/">教程</a>和<a
+    href="https://github.com/beiyuu/beiyuu.github.io">模板</a>上修改的，也已在github(<a
+                                                                                     href="https://github.com/monomaniar/monomaniar.github.io">这里</a>)上,喜欢的同学请任意使用.
+    </div>
         </div>
     </div>
     {% include home_rightside.html %}
