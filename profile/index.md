@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 吴冉波
+title: 吴冉波的简介
 ---
 
 <div class="index-content profile clearfix">
