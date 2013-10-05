@@ -5,7 +5,10 @@ category: blog
 description: '首都科学讲堂的笔记1，院士解答南方冬天为什么不适合使用集中供暖.'
 tags: ['讲座笔记','首都科学讲堂']
 ---
-> 引言：[首都科学讲堂](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)是在首都图书馆办的讲座，已经听了一年了，非常棒，很多都是两院院士来讲，基本都是对应领域中国顶尖的学者来讲，水平很高而且面向大众科普的讲，深入浅出，讲座之后问答也很自由都很nice；内容涵盖也很宽泛，包括基础物理数学心理学医学化学的内容，也有针对具体的问题的讲座比如电池、石油、癌症、航天；而且感觉主办者很用心，往往是还会针对实时热点事件确定题目，比如下面这个南北供暖的题目，还有我听过的关于3D打印，核电站等的讲座。听的人一般有100多人，而且很多都是附近社区的退休教师，年轻人不多，感觉身在北京如果只承受了堵车和雾霾，没有享受到这些独有的人文资源，真的不划算了。官方地址:[请点击](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)。
+
+![cover](/img/blog/nanbeigongnuan/cover.jpg)
+
+> 引言：[首都科学讲堂](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)是在首都图书馆办的讲座，已经听了一年了，非常棒，很多都是两院院士来讲，基本都是对应领域中国顶尖的学者来讲，水平很高而且面向大众科普的讲，深入浅出，讲座之后问答也很自由都很nice；内容涵盖也很宽泛，包括基础物理数学心理学医学化学的内容，也有针对具体的问题的讲座比如电池、石油、癌症、航天；而且感觉主办者很用心，往往是还会针对实时热点事件确定题目，比如下面这个南北供暖的题目，还有我听过的关于3D打印，核电站等的讲座。听的人一般有100多人，而且很多都是附近社区的退休教师，年轻人不多，感觉身在北京如果只承受了堵车和雾霾，没有享受到这些独有的资源，不划算啊。官方地址:[请点击](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)，豆瓣站点:[请点击](http://site.douban.com/clcn/)。
 
 > 其他我整理的笔记:[量子霍尔效应](http://wuranbo.me/jiangtangbiji-halleffect/)
 

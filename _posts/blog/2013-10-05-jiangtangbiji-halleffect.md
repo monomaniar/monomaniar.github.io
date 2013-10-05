@@ -1,12 +1,14 @@
 ---
 layout:     post
-title:      '[讲座笔记]霍尔效应'
+title:      '[讲座笔记]量子反常霍尔效应'
 category:   blog
 description: '2013年9月30日首图，首都科学讲堂，中科院院士薛其坤讲霍尔效应：去年12月清华实验室在磁性拓扑绝缘体中观察到了量子反常霍尔效应，验证确认了霍尔效应的理论物理假说，这个实验物理成果可能是诺贝尔物理学奖的有力争夺者。'
 tags: ['讲座笔记','首都科学讲堂']
 ---
 
-> 引言：[首都科学讲堂](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)是在首都图书馆办的讲座，已经听了一年了，非常棒，很多都是两院院士来讲，基本都是对应领域中国顶尖的学者来讲，水平很高而且面向大众科普的讲，深入浅出，讲座之后问答也很自由都很nice；内容涵盖也很宽泛，包括基础物理数学心理学医学化学的内容，也有针对具体的问题的讲座比如电池、石油、癌症、航天；而且感觉主办者很用心，往往是还会针对实时热点事件确定题目，比如南方供暖的题目，还有我听过的关于3D打印，核电站等的讲座。听的人一般有100多人，而且很多都是附近社区的退休教师，年轻人不多，感觉身在北京如果只承受了堵车和雾霾，没有享受到这些独有的人文资源，真的不划算了。官方地址:[请点击](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)。
+![cover](/img/blog/halleffect/cover.jpg)
+
+> 引言：[首都科学讲堂](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)是在首都图书馆办的讲座，已经听了一年了，非常棒，很多都是两院院士来讲，基本都是对应领域中国顶尖的学者来讲，水平很高而且面向大众科普的讲，深入浅出，讲座之后问答也很自由都很nice；内容涵盖也很宽泛，包括基础物理数学心理学医学化学的内容，也有针对具体的问题的讲座比如电池、石油、癌症、航天；而且感觉主办者很用心，往往是还会针对实时热点事件确定题目，比如南方供暖的题目，还有我听过的关于3D打印，核电站等的讲座。听的人一般有100多人，而且很多都是附近社区的退休教师，年轻人不多，感觉身在北京如果只承受了堵车和雾霾，没有享受到这些独有的资源，不划算啊。官方地址:[请点击](http://www.clcn.net.cn/modules/events/index.php?cat_id=11#cultrue_bottom)，豆瓣站点:[请点击](http://site.douban.com/clcn/)。
 
 > 其他我整理的笔记:[南北供暖这个事儿](http://wuranbo.me/jiangtangbiji-nanbeigongnuan/)
 
@@ -71,7 +73,7 @@ VH=-IB/net
 ![top8](/img/blog/halleffect/top8.jpg)
 ![top13](/img/blog/halleffect/top13.jpg)
 
-## 反常量子霍尔效应
+## 量子反常霍尔效应
 
 回到最初，1880年霍尔发现的反常霍尔效应是不需要磁场的。沿着这样一个思路我们会想到，有没有不需要磁场的量子化霍尔效应呢？如果我们的实验验证了量子化反常霍尔效应，不仅在科学上有重要意义，可以弄清争论了100多年的反常霍尔效应的机制，而且在应用上也有很大的价值。
 
@@ -96,7 +98,7 @@ VH=-IB/net
 而最终发表的论文中的曲线与理论预测相当接近：
 ![halleffetc54](/img/blog/halleffect/halleffect54.jpg)
 
-院士讲他们刚做出来的时候发给别人看，当时张首晟（wiki(http://zh.wikipedia.org/wiki/%E5%BC%A0%E9%A6%96%E6%99%9F)）在斯坦福做理论（量子自旋霍尔效应（[wiki](http://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94)）），清华这里是跟张首晟合作验证他的理论，斯坦福也有一个实验室验证张的理论，当时斯坦福那个实验室还怀疑清华这边可能美化数据，后来就把原始数据交给对方。2012年10月份第一次观察到现象数据就和理论非常接近确实是很幸运，随后论文被审稿人称赞为“完成了霍尔效应的三重奏”。
+院士讲他们刚做出来的时候发给别人看，当时张首晟（[wiki](http://zh.wikipedia.org/wiki/%E5%BC%A0%E9%A6%96%E6%99%9F)）在斯坦福做理论（量子自旋霍尔效应（[wiki](http://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94)）），清华这里是跟张首晟合作验证他的理论，斯坦福也有一个实验室验证张的理论，当时斯坦福那个实验室还怀疑清华这边可能美化数据，后来就把原始数据交给对方。2012年10月份第一次观察到现象数据就和理论非常接近确实是很幸运，随后论文被审稿人称赞为“完成了霍尔效应的三重奏”。
 ![halleffetc51](/img/blog/halleffect/halleffect51.jpg)
 ![halleffetc88](/img/blog/halleffect/halleffect88.jpg)
 ![halleffetc89](/img/blog/halleffect/halleffect89.jpg)
