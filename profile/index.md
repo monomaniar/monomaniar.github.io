@@ -22,7 +22,6 @@ title: 吴冉波的简介
                 </div>
                 <div style="float:left;">
                     <p>姓名 : 吴冉波</p>
-                    <p>年龄 : 26</p>
                     <p>大学 : 北京邮电大学 > 通信工程系</p>
                 </div>
             </div>
