@@ -13,9 +13,13 @@ title: 吴冉波
     <li  style="text-align:right"><a href="/profile"><span>吴冉波</span></a></li>
 </ul>
 
+
 <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
+<div>
+<p>越简单越清晰的往往越是事后诸葛。史以明智，胡言乱语都记下，相当要紧。</p>
+</div>
         {% for post in site.categories.misc %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
