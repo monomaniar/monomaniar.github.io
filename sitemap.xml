@@ -1,0 +1,19 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML文件需以utf-8编码:format from so.com search tools-->
+   <urlset>
+     <url>
+       <loc>http://wuranbo.me</loc>
+     </url>
+     <url>
+       <loc>http://wuranbo.me/profile</loc>
+     </url>
+     {% for post in site.posts  %}
+     <url>
+       <loc>http://wuranbo.me{{ post.url }}</loc>
+       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+     </url>
+     {% endfor %}
+   </urlset>
