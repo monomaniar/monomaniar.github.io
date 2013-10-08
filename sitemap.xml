@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <!-- XML文件需以utf-8编码:format from so.com search tools-->
-   <urlset>
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9>
      <url>
        <loc>http://wuranbo.me</loc>
      </url>
