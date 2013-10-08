@@ -7,6 +7,9 @@ layout: nil
        <loc>http://wuranbo.me</loc>
      </url>
      <url>
+       <loc>http://wuranbo.me/misc</loc>
+     </url>
+     <url>
        <loc>http://wuranbo.me/profile</loc>
      </url>
      {% for post in site.posts  %}
